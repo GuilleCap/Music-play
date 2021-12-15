@@ -105,7 +105,6 @@ progressContainer.addEventListener('click', setProgress)
 audio.addEventListener('ended', nextSong)
 
 
-<<<<<<< HEAD
 
 
 
@@ -115,6 +114,3 @@ audio.addEventListener('ended', nextSong)
 
 
 
-
-=======
->>>>>>> a6019799044949f09dc8883003e606b2bfb8025a
